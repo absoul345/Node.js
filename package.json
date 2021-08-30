@@ -1,0 +1,32 @@
+{
+  "name": "node-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "commander": "8.1.0",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absoul345/node-js-test.git"
+  },
+  "keywords": [],
+  "author": "Vladiko <absoul345@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absoul345/node-js-test/issues"
+  },
+  "homepage": "https://github.com/absoul345/node-js-test#readme"
+}
