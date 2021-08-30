@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/absoul345/node-js-test.git"
+    "url": "git+https://github.com/absoul345/Node.js.git"
   },
   "keywords": [],
   "author": "Vladiko <absoul345@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/absoul345/node-js-test/issues"
+    "url": "https://github.com/absoul345/Node.js/issues"
   },
-  "homepage": "https://github.com/absoul345/node-js-test#readme"
+  "homepage": "https://github.com/absoul345/Node.js#readme"
 }
